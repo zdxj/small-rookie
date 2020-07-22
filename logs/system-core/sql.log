@@ -1,0 +1,42 @@
+2020-07-22 10:09:04.746 [http-nio-8764-exec-2] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 10:09:04.776 [http-nio-8764-exec-2] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-22 10:09:04.822 [http-nio-8764-exec-2] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 1
+2020-07-22 10:09:05.134 [http-nio-8764-exec-1] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-22 10:09:05.135 [http-nio-8764-exec-1] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: 2(Integer)
+2020-07-22 10:09:05.138 [http-nio-8764-exec-1] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 1
+2020-07-22 10:09:55.979 [http-nio-8764-exec-3] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from system_menu order by id desc
+2020-07-22 10:09:55.980 [http-nio-8764-exec-3] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: 
+2020-07-22 10:09:56.004 [http-nio-8764-exec-3] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 25
+2020-07-22 10:11:23.475 [http-nio-8764-exec-5] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 10:11:23.476 [http-nio-8764-exec-5] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-22 10:11:23.477 [http-nio-8764-exec-5] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 1
+2020-07-22 10:11:23.515 [http-nio-8764-exec-7] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-22 10:11:23.515 [http-nio-8764-exec-7] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: 2(Integer)
+2020-07-22 10:11:23.517 [http-nio-8764-exec-7] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 1
+2020-07-22 10:11:56.153 [http-nio-8764-exec-6] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 10:11:56.153 [http-nio-8764-exec-6] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-22 10:11:56.159 [http-nio-8764-exec-6] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 1
+2020-07-22 10:11:56.175 [http-nio-8764-exec-8] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-22 10:11:56.176 [http-nio-8764-exec-8] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: 2(Integer)
+2020-07-22 10:11:56.177 [http-nio-8764-exec-8] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 1
+2020-07-22 10:16:26.873 [main] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from system_menu WHERE is_deleted = ? order by id desc
+2020-07-22 10:16:26.900 [main] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: false(Boolean)
+2020-07-22 10:16:26.970 [main] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 25
+2020-07-22 10:16:26.984 [main] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from role_menu_rel order by id desc
+2020-07-22 10:16:26.985 [main] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: 
+2020-07-22 10:16:26.997 [main] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 22
+2020-07-22 11:47:34.318 [http-nio-8764-exec-2] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 11:47:34.368 [http-nio-8764-exec-2] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: admin11(String), 0(Integer), 1(Integer)
+2020-07-22 11:47:34.449 [http-nio-8764-exec-2] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 0
+2020-07-22 11:47:48.110 [http-nio-8764-exec-1] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 11:47:48.111 [http-nio-8764-exec-1] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-22 11:47:48.115 [http-nio-8764-exec-1] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 1
+2020-07-22 11:47:48.145 [http-nio-8764-exec-3] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-22 11:47:48.146 [http-nio-8764-exec-3] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: 2(Integer)
+2020-07-22 11:47:48.196 [http-nio-8764-exec-3] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 1
+2020-07-22 11:48:01.841 [http-nio-8764-exec-4] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from system_menu order by id desc
+2020-07-22 11:48:01.842 [http-nio-8764-exec-4] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: 
+2020-07-22 11:48:01.922 [http-nio-8764-exec-4] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 25
+2020-07-22 11:52:11.896 [http-nio-8764-exec-6] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==>  Preparing: select * from system_menu order by id desc
+2020-07-22 11:52:11.896 [http-nio-8764-exec-6] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - ==> Parameters: 
+2020-07-22 11:52:11.901 [http-nio-8764-exec-6] DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug - <==      Total: 25

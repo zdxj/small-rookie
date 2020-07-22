@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authorize-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-api/cms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-api/system-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-core/cms-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-core/system-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-utils" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

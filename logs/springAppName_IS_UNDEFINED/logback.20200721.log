@@ -1,0 +1,33 @@
+2020-07-21 18:14:23.179 logback [http-nio-8764-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-21 18:14:23.183 logback [http-nio-8764-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-07-21 18:14:23.249 logback [http-nio-8764-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 66 ms
+2020-07-21 18:14:23.664 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_menu order by id desc
+2020-07-21 18:14:23.846 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - ==> Parameters: 
+2020-07-21 18:14:24.091 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - <==      Total: 25
+2020-07-21 18:15:34.813 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-21 18:20:34.817 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-21 18:25:34.819 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-21 18:27:16.278 logback [http-nio-8764-exec-6] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-21 18:27:16.281 logback [http-nio-8764-exec-6] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-21 18:27:16.328 logback [http-nio-8764-exec-6] DEBUG c.z.m.S.listByCondition - <==      Total: 1
+2020-07-21 18:27:16.565 logback [http-nio-8764-exec-8] DEBUG c.z.m.M.listByCondition - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-21 18:27:16.565 logback [http-nio-8764-exec-8] DEBUG c.z.m.M.listByCondition - ==> Parameters: 2(Integer)
+2020-07-21 18:27:16.617 logback [http-nio-8764-exec-8] DEBUG c.z.m.M.listByCondition - <==      Total: 1
+2020-07-21 18:30:34.821 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-21 18:35:34.822 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-21 18:38:09.907 logback [http-nio-8764-exec-3] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-21 18:38:09.907 logback [http-nio-8764-exec-3] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-21 18:38:09.909 logback [http-nio-8764-exec-3] DEBUG c.z.m.S.listByCondition - <==      Total: 1
+2020-07-21 18:38:10.049 logback [http-nio-8764-exec-4] DEBUG c.z.m.M.listByCondition - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-21 18:38:10.049 logback [http-nio-8764-exec-4] DEBUG c.z.m.M.listByCondition - ==> Parameters: 2(Integer)
+2020-07-21 18:38:10.060 logback [http-nio-8764-exec-4] DEBUG c.z.m.M.listByCondition - <==      Total: 1
+2020-07-21 18:40:34.824 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-21 18:45:34.848 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-21 18:50:34.857 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-21 19:00:07.679 logback [http-nio-8764-exec-10] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-21 19:00:07.709 logback [http-nio-8764-exec-10] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-21 19:00:07.712 logback [http-nio-8764-exec-10] DEBUG c.z.m.S.listByCondition - <==      Total: 1
+2020-07-21 19:00:07.822 logback [http-nio-8764-exec-9] DEBUG c.z.m.M.listByCondition - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-21 19:00:07.824 logback [http-nio-8764-exec-9] DEBUG c.z.m.M.listByCondition - ==> Parameters: 2(Integer)
+2020-07-21 19:00:07.826 logback [http-nio-8764-exec-9] DEBUG c.z.m.M.listByCondition - <==      Total: 1
+2020-07-21 19:00:25.494 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration

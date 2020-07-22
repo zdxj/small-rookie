@@ -1,0 +1,510 @@
+2020-07-22 00:02:04.602 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:07:04.752 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:12:04.752 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:17:04.754 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:22:04.755 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:27:04.758 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:32:04.759 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:37:04.769 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:42:04.776 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:47:04.778 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:52:04.791 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 00:57:04.792 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:02:04.804 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:07:04.821 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:12:04.822 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:17:04.823 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:22:04.825 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:27:04.825 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:32:04.827 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:37:04.830 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:42:04.831 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:47:04.832 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:52:04.833 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 01:57:04.834 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:02:04.836 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:07:04.837 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:12:04.839 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:17:04.840 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:22:04.842 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:27:04.843 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:32:04.846 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:37:04.847 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:42:04.849 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:47:04.850 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:52:04.851 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 02:57:04.852 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:02:04.854 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:07:04.855 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:12:04.857 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:17:04.858 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:22:04.860 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:27:04.861 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:32:04.868 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:37:04.869 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:42:04.889 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:47:04.890 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:52:04.893 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 03:57:04.894 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:02:04.896 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:07:04.898 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:12:04.900 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:17:04.900 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:22:04.902 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:27:04.903 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:32:04.916 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:37:04.918 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:42:04.934 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:47:04.936 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:52:04.951 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 04:57:04.953 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:02:04.954 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:07:04.970 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:12:04.971 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:17:04.973 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:22:04.974 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:27:04.975 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:32:04.976 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:37:04.978 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:42:04.979 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:47:04.989 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:52:05.005 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 05:57:05.014 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:02:05.023 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:07:05.024 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:12:05.026 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:17:05.027 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:22:05.028 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:27:05.030 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:32:05.031 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:37:05.046 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:42:05.046 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:47:05.047 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:52:05.048 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 06:57:05.049 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:02:05.051 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:07:05.052 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:12:05.054 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:17:05.054 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:22:05.055 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:27:05.056 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:32:05.058 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:37:05.059 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:42:05.061 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:47:05.062 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:52:05.064 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 07:57:05.065 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:02:05.068 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:07:05.070 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:12:05.071 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:17:05.081 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:22:05.083 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:27:05.084 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:32:05.086 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:37:05.087 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:42:05.100 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:47:05.117 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:52:05.119 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 08:57:05.120 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:02:05.134 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:07:05.135 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:12:05.136 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:17:05.152 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:22:05.153 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:27:05.155 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:32:05.157 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:37:05.158 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:42:05.211 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:47:05.213 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:52:05.214 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:57:05.215 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 09:58:08.697 logback [lettuce-nioEventLoop-4-1] INFO  i.l.core.protocol.CommandHandler - null Unexpected exception during request: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-07-22 09:58:09.618 logback [lettuce-eventExecutorLoop-1-3] INFO  i.l.core.protocol.ConnectionWatchdog - Reconnecting, last destination was /127.0.0.1:6379
+2020-07-22 09:58:11.333 logback [lettuce-nioEventLoop-4-2] WARN  i.l.core.protocol.ConnectionWatchdog - Cannot reconnect to [127.0.0.1:6379]: Connection refused: no further information: /127.0.0.1:6379
+2020-07-22 09:58:14.716 logback [lettuce-eventExecutorLoop-1-3] INFO  i.l.core.protocol.ConnectionWatchdog - Reconnecting, last destination was 127.0.0.1:6379
+2020-07-22 09:58:15.722 logback [lettuce-nioEventLoop-4-2] WARN  i.l.core.protocol.ConnectionWatchdog - Cannot reconnect to [127.0.0.1:6379]: Connection refused: no further information: /127.0.0.1:6379
+2020-07-22 09:58:21.018 logback [lettuce-eventExecutorLoop-1-4] INFO  i.l.core.protocol.ConnectionWatchdog - Reconnecting, last destination was 127.0.0.1:6379
+2020-07-22 10:07:40.626 logback [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://192.168.79.1:8762/
+2020-07-22 10:07:40.894 logback [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=spring-config, profiles=[dev], label=master, version=null, state=null
+2020-07-22 10:07:40.895 logback [main] INFO  o.s.c.b.c.PropertySourceBootstrapConfiguration - Located property source: [BootstrapPropertySource {name='bootstrapProperties-classpath:/spring-config-dev.yml'}]
+2020-07-22 10:07:40.899 logback [main] INFO  com.zdxj.SystemCoreApplication - No active profile set, falling back to default profiles: default
+2020-07-22 10:07:42.010 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-07-22 10:07:42.010 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-07-22 10:07:42.044 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 29ms. Found 0 JDBC repository interfaces.
+2020-07-22 10:07:42.057 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-07-22 10:07:42.059 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-07-22 10:07:42.086 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2020-07-22 10:07:42.377 logback [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=83558851-4aa1-30d5-ac04-ada4a94a7591
+2020-07-22 10:07:42.559 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.DepartmentFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:42.560 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.ManagerRoleRelFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:42.561 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.RoleMenuRelFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:42.561 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemManagerFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:42.562 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemMenuFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:42.563 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemRoleFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:42.755 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.redis-org.springframework.boot.autoconfigure.data.redis.RedisProperties' of type [org.springframework.boot.autoconfigure.data.redis.RedisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:42.758 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.data.redis.LettuceConnectionConfiguration' of type [org.springframework.boot.autoconfigure.data.redis.LettuceConnectionConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:42.867 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'lettuceClientResources' of type [io.lettuce.core.resource.DefaultClientResources] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:42.984 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConnectionFactory' of type [org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:42.991 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [com.zdxj.config.RedisConfig$$EnhancerBySpringCGLIB$$f6d4b4df] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:07:43.292 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8764 (http)
+2020-07-22 10:07:43.303 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8764"]
+2020-07-22 10:07:43.303 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-22 10:07:43.303 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-22 10:07:43.440 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-22 10:07:43.440 logback [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2527 ms
+2020-07-22 10:07:47.371 logback [main] INFO  com.zdxj.config.RedisConfig - 初始化 -> [CacheManager RedisCacheManager Start]
+2020-07-22 10:07:47.385 logback [main] INFO  com.zdxj.config.RedisConfig - 初始化 -> [Redis CacheErrorHandler]
+2020-07-22 10:07:47.406 logback [main] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-07-22 10:07:47.406 logback [main] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-22 10:07:47.411 logback [main] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-07-22 10:07:47.411 logback [main] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-22 10:07:47.625 logback [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-22 10:07:47.904 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-07-22 10:07:48.128 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-07-22 10:07:48.835 logback [main] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-07-22 10:07:48.990 logback [main] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2020-07-22 10:07:49.205 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2020-07-22 10:07:49.477 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2020-07-22 10:07:49.477 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2020-07-22 10:07:49.589 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2020-07-22 10:07:49.589 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2020-07-22 10:07:49.805 logback [main] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 10:07:49.954 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2020-07-22 10:07:49.954 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2020-07-22 10:07:49.954 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2020-07-22 10:07:49.954 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2020-07-22 10:07:49.954 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2020-07-22 10:07:49.954 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2020-07-22 10:07:49.954 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2020-07-22 10:07:50.065 logback [main] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2020-07-22 10:07:50.067 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2020-07-22 10:07:50.070 logback [main] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-07-22 10:07:50.075 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1595383670074 with initial instances count: 2
+2020-07-22 10:07:50.079 logback [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application SYSTEM-CORE with eureka with status UP
+2020-07-22 10:07:50.080 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1595383670080, current=UP, previous=STARTING]
+2020-07-22 10:07:50.082 logback [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_SYSTEM-CORE/DESKTOP-MUMFCTC:system-core:8764: registering service...
+2020-07-22 10:07:50.083 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8764"]
+2020-07-22 10:07:50.112 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8764 (http) with context path ''
+2020-07-22 10:07:50.114 logback [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8764
+2020-07-22 10:07:50.124 logback [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_SYSTEM-CORE/DESKTOP-MUMFCTC:system-core:8764 - registration status: 204
+2020-07-22 10:07:50.333 logback [main] INFO  com.zdxj.SystemCoreApplication - Started SystemCoreApplication in 11.264 seconds (JVM running for 12.225)
+2020-07-22 10:09:04.472 logback [http-nio-8764-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-22 10:09:04.472 logback [http-nio-8764-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-07-22 10:09:04.482 logback [http-nio-8764-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-07-22 10:09:04.746 logback [http-nio-8764-exec-2] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 10:09:04.776 logback [http-nio-8764-exec-2] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-22 10:09:04.822 logback [http-nio-8764-exec-2] DEBUG c.z.m.S.listByCondition - <==      Total: 1
+2020-07-22 10:09:05.134 logback [http-nio-8764-exec-1] DEBUG c.z.m.M.listByCondition - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-22 10:09:05.135 logback [http-nio-8764-exec-1] DEBUG c.z.m.M.listByCondition - ==> Parameters: 2(Integer)
+2020-07-22 10:09:05.138 logback [http-nio-8764-exec-1] DEBUG c.z.m.M.listByCondition - <==      Total: 1
+2020-07-22 10:09:55.979 logback [http-nio-8764-exec-3] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_menu order by id desc
+2020-07-22 10:09:55.980 logback [http-nio-8764-exec-3] DEBUG c.z.m.S.listByCondition - ==> Parameters: 
+2020-07-22 10:09:56.004 logback [http-nio-8764-exec-3] DEBUG c.z.m.S.listByCondition - <==      Total: 25
+2020-07-22 10:11:23.475 logback [http-nio-8764-exec-5] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 10:11:23.476 logback [http-nio-8764-exec-5] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-22 10:11:23.477 logback [http-nio-8764-exec-5] DEBUG c.z.m.S.listByCondition - <==      Total: 1
+2020-07-22 10:11:23.515 logback [http-nio-8764-exec-7] DEBUG c.z.m.M.listByCondition - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-22 10:11:23.515 logback [http-nio-8764-exec-7] DEBUG c.z.m.M.listByCondition - ==> Parameters: 2(Integer)
+2020-07-22 10:11:23.517 logback [http-nio-8764-exec-7] DEBUG c.z.m.M.listByCondition - <==      Total: 1
+2020-07-22 10:11:56.153 logback [http-nio-8764-exec-6] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 10:11:56.153 logback [http-nio-8764-exec-6] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-22 10:11:56.159 logback [http-nio-8764-exec-6] DEBUG c.z.m.S.listByCondition - <==      Total: 1
+2020-07-22 10:11:56.175 logback [http-nio-8764-exec-8] DEBUG c.z.m.M.listByCondition - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-22 10:11:56.176 logback [http-nio-8764-exec-8] DEBUG c.z.m.M.listByCondition - ==> Parameters: 2(Integer)
+2020-07-22 10:11:56.177 logback [http-nio-8764-exec-8] DEBUG c.z.m.M.listByCondition - <==      Total: 1
+2020-07-22 10:12:49.957 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 10:16:22.014 logback [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://192.168.79.1:8762/
+2020-07-22 10:16:22.293 logback [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=spring-config, profiles=[dev], label=master, version=null, state=null
+2020-07-22 10:16:22.294 logback [main] INFO  o.s.c.b.c.PropertySourceBootstrapConfiguration - Located property source: [BootstrapPropertySource {name='bootstrapProperties-classpath:/spring-config-dev.yml'}]
+2020-07-22 10:16:22.298 logback [main] INFO  com.zdxj.SystemCoreApplication - No active profile set, falling back to default profiles: default
+2020-07-22 10:16:23.529 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-07-22 10:16:23.529 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-07-22 10:16:23.569 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 34ms. Found 0 JDBC repository interfaces.
+2020-07-22 10:16:23.587 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-07-22 10:16:23.589 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-07-22 10:16:23.618 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+2020-07-22 10:16:23.918 logback [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=83558851-4aa1-30d5-ac04-ada4a94a7591
+2020-07-22 10:16:24.131 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.DepartmentFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.132 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.ManagerRoleRelFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.134 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.RoleMenuRelFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.135 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemManagerFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.136 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemMenuFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.137 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemRoleFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.355 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.redis-org.springframework.boot.autoconfigure.data.redis.RedisProperties' of type [org.springframework.boot.autoconfigure.data.redis.RedisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.358 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.data.redis.LettuceConnectionConfiguration' of type [org.springframework.boot.autoconfigure.data.redis.LettuceConnectionConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.470 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'lettuceClientResources' of type [io.lettuce.core.resource.DefaultClientResources] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.606 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConnectionFactory' of type [org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.613 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [com.zdxj.config.RedisConfig$$EnhancerBySpringCGLIB$$a9c07311] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 10:16:24.938 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8764 (http)
+2020-07-22 10:16:24.952 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8764"]
+2020-07-22 10:16:24.952 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-22 10:16:24.952 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-22 10:16:25.115 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-22 10:16:25.116 logback [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2800 ms
+2020-07-22 10:16:26.707 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-07-22 10:16:26.865 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-07-22 10:16:26.873 logback [main] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_menu WHERE is_deleted = ? order by id desc
+2020-07-22 10:16:26.900 logback [main] DEBUG c.z.m.S.listByCondition - ==> Parameters: false(Boolean)
+2020-07-22 10:16:26.970 logback [main] DEBUG c.z.m.S.listByCondition - <==      Total: 25
+2020-07-22 10:16:26.984 logback [main] DEBUG c.z.m.R.listByCondition - ==>  Preparing: select * from role_menu_rel order by id desc
+2020-07-22 10:16:26.985 logback [main] DEBUG c.z.m.R.listByCondition - ==> Parameters: 
+2020-07-22 10:16:26.997 logback [main] DEBUG c.z.m.R.listByCondition - <==      Total: 22
+2020-07-22 10:16:27.125 logback [main] INFO  com.zdxj.config.RedisConfig - 初始化 -> [CacheManager RedisCacheManager Start]
+2020-07-22 10:16:27.139 logback [main] INFO  com.zdxj.config.RedisConfig - 初始化 -> [Redis CacheErrorHandler]
+2020-07-22 10:16:27.168 logback [main] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-07-22 10:16:27.168 logback [main] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-22 10:16:27.174 logback [main] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-07-22 10:16:27.174 logback [main] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-22 10:16:27.641 logback [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-22 10:16:28.799 logback [main] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-07-22 10:16:28.935 logback [main] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2020-07-22 10:16:28.969 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2020-07-22 10:16:29.251 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2020-07-22 10:16:29.252 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2020-07-22 10:16:29.364 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2020-07-22 10:16:29.364 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2020-07-22 10:16:29.583 logback [main] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 10:16:29.748 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2020-07-22 10:16:29.748 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2020-07-22 10:16:29.749 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2020-07-22 10:16:29.749 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2020-07-22 10:16:29.749 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2020-07-22 10:16:29.749 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2020-07-22 10:16:29.749 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2020-07-22 10:16:29.858 logback [main] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2020-07-22 10:16:29.861 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2020-07-22 10:16:29.866 logback [main] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-07-22 10:16:29.871 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1595384189870 with initial instances count: 4
+2020-07-22 10:16:29.875 logback [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application SYSTEM-CORE with eureka with status UP
+2020-07-22 10:16:29.875 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1595384189875, current=UP, previous=STARTING]
+2020-07-22 10:16:29.879 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8764"]
+2020-07-22 10:16:29.879 logback [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_SYSTEM-CORE/DESKTOP-MUMFCTC:system-core:8764: registering service...
+2020-07-22 10:16:29.912 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8764 (http) with context path ''
+2020-07-22 10:16:29.917 logback [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8764
+2020-07-22 10:16:29.919 logback [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_SYSTEM-CORE/DESKTOP-MUMFCTC:system-core:8764 - registration status: 204
+2020-07-22 10:16:30.162 logback [main] INFO  com.zdxj.SystemCoreApplication - Started SystemCoreApplication in 9.846 seconds (JVM running for 11.0)
+2020-07-22 10:21:29.752 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 10:26:29.755 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 10:31:29.757 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 10:36:29.759 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 10:41:29.761 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 10:46:29.762 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 10:51:29.764 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 10:56:29.766 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 11:01:29.767 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 11:06:29.768 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 11:11:29.770 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 11:16:29.771 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 11:45:12.464 logback [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://192.168.79.1:8762/
+2020-07-22 11:45:12.731 logback [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=spring-config, profiles=[dev], label=master, version=null, state=null
+2020-07-22 11:45:12.732 logback [main] INFO  o.s.c.b.c.PropertySourceBootstrapConfiguration - Located property source: [BootstrapPropertySource {name='bootstrapProperties-classpath:/spring-config-dev.yml'}]
+2020-07-22 11:45:12.736 logback [main] INFO  com.zdxj.SystemCoreApplication - No active profile set, falling back to default profiles: default
+2020-07-22 11:45:13.733 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-07-22 11:45:13.734 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-07-22 11:45:13.768 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 29ms. Found 0 JDBC repository interfaces.
+2020-07-22 11:45:13.781 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-07-22 11:45:13.783 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-07-22 11:45:13.810 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2020-07-22 11:45:14.159 logback [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=83558851-4aa1-30d5-ac04-ada4a94a7591
+2020-07-22 11:45:14.262 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.DepartmentFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.263 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.ManagerRoleRelFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.264 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.RoleMenuRelFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.265 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemManagerFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.266 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemMenuFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.267 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemRoleFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.459 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.redis-org.springframework.boot.autoconfigure.data.redis.RedisProperties' of type [org.springframework.boot.autoconfigure.data.redis.RedisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.462 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.data.redis.LettuceConnectionConfiguration' of type [org.springframework.boot.autoconfigure.data.redis.LettuceConnectionConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.557 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'lettuceClientResources' of type [io.lettuce.core.resource.DefaultClientResources] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.651 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConnectionFactory' of type [org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.655 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [com.zdxj.config.RedisConfig$$EnhancerBySpringCGLIB$$2bc5e85a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 11:45:14.968 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8764 (http)
+2020-07-22 11:45:14.979 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8764"]
+2020-07-22 11:45:14.979 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-22 11:45:14.979 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-22 11:45:15.110 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-22 11:45:15.110 logback [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2361 ms
+2020-07-22 11:45:16.484 logback [main] INFO  com.zdxj.config.RedisConfig - 初始化 -> [CacheManager RedisCacheManager Start]
+2020-07-22 11:45:16.497 logback [main] INFO  com.zdxj.config.RedisConfig - 初始化 -> [Redis CacheErrorHandler]
+2020-07-22 11:45:16.520 logback [main] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-07-22 11:45:16.520 logback [main] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-22 11:45:16.525 logback [main] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-07-22 11:45:16.525 logback [main] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-22 11:45:16.732 logback [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-22 11:45:17.011 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-07-22 11:45:17.241 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-07-22 11:45:17.988 logback [main] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-07-22 11:45:18.144 logback [main] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2020-07-22 11:45:18.351 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2020-07-22 11:45:18.622 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2020-07-22 11:45:18.622 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2020-07-22 11:45:18.733 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2020-07-22 11:45:18.733 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2020-07-22 11:45:18.942 logback [main] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 11:45:19.098 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2020-07-22 11:45:19.098 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2020-07-22 11:45:19.098 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2020-07-22 11:45:19.098 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2020-07-22 11:45:19.098 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2020-07-22 11:45:19.098 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2020-07-22 11:45:19.098 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2020-07-22 11:45:19.203 logback [main] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2020-07-22 11:45:19.205 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2020-07-22 11:45:19.208 logback [main] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-07-22 11:45:19.213 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1595389519212 with initial instances count: 1
+2020-07-22 11:45:19.216 logback [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application SYSTEM-CORE with eureka with status UP
+2020-07-22 11:45:19.216 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1595389519216, current=UP, previous=STARTING]
+2020-07-22 11:45:19.219 logback [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_SYSTEM-CORE/DESKTOP-MUMFCTC:system-core:8764: registering service...
+2020-07-22 11:45:19.219 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8764"]
+2020-07-22 11:45:19.246 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8764 (http) with context path ''
+2020-07-22 11:45:19.248 logback [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8764
+2020-07-22 11:45:19.261 logback [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_SYSTEM-CORE/DESKTOP-MUMFCTC:system-core:8764 - registration status: 204
+2020-07-22 11:45:19.462 logback [main] INFO  com.zdxj.SystemCoreApplication - Started SystemCoreApplication in 8.547 seconds (JVM running for 9.619)
+2020-07-22 11:47:34.135 logback [http-nio-8764-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-22 11:47:34.135 logback [http-nio-8764-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-07-22 11:47:34.145 logback [http-nio-8764-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-07-22 11:47:34.318 logback [http-nio-8764-exec-2] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 11:47:34.368 logback [http-nio-8764-exec-2] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin11(String), 0(Integer), 1(Integer)
+2020-07-22 11:47:34.449 logback [http-nio-8764-exec-2] DEBUG c.z.m.S.listByCondition - <==      Total: 0
+2020-07-22 11:47:48.110 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 11:47:48.111 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-22 11:47:48.115 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - <==      Total: 1
+2020-07-22 11:47:48.145 logback [http-nio-8764-exec-3] DEBUG c.z.m.M.listByCondition - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-22 11:47:48.146 logback [http-nio-8764-exec-3] DEBUG c.z.m.M.listByCondition - ==> Parameters: 2(Integer)
+2020-07-22 11:47:48.196 logback [http-nio-8764-exec-3] DEBUG c.z.m.M.listByCondition - <==      Total: 1
+2020-07-22 11:48:01.841 logback [http-nio-8764-exec-4] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_menu order by id desc
+2020-07-22 11:48:01.842 logback [http-nio-8764-exec-4] DEBUG c.z.m.S.listByCondition - ==> Parameters: 
+2020-07-22 11:48:01.922 logback [http-nio-8764-exec-4] DEBUG c.z.m.S.listByCondition - <==      Total: 25
+2020-07-22 11:50:19.100 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 11:52:11.896 logback [http-nio-8764-exec-6] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_menu order by id desc
+2020-07-22 11:52:11.896 logback [http-nio-8764-exec-6] DEBUG c.z.m.S.listByCondition - ==> Parameters: 
+2020-07-22 11:52:11.901 logback [http-nio-8764-exec-6] DEBUG c.z.m.S.listByCondition - <==      Total: 25
+2020-07-22 11:55:19.102 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:00:19.103 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:05:19.105 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:10:19.105 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:15:19.108 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:20:19.109 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:25:19.111 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:30:19.112 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:35:19.114 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:40:19.114 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:45:19.117 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:50:19.118 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 12:55:19.120 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:00:19.121 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:05:19.122 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:10:19.125 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:15:19.126 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:20:19.129 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:25:19.130 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:30:19.131 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:35:19.133 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:40:19.137 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:45:19.141 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:50:19.142 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 13:55:19.143 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:00:19.149 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:05:19.159 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:10:19.161 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:15:19.161 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:20:19.162 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:25:19.175 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:30:19.177 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:35:19.178 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:40:19.181 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:45:19.183 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:50:19.185 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 14:55:19.187 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:00:19.189 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:05:19.192 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:10:19.194 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:15:19.197 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:20:19.199 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:25:19.200 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:30:19.212 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:35:19.214 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:40:19.215 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:45:19.217 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 15:50:19.219 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 16:55:17.461 logback [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at : http://192.168.79.1:8762/
+2020-07-22 16:55:17.925 logback [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=spring-config, profiles=[dev], label=master, version=null, state=null
+2020-07-22 16:55:17.926 logback [main] INFO  o.s.c.b.c.PropertySourceBootstrapConfiguration - Located property source: [BootstrapPropertySource {name='bootstrapProperties-classpath:/spring-config-dev.yml'}]
+2020-07-22 16:55:17.931 logback [main] INFO  com.zdxj.SystemCoreApplication - No active profile set, falling back to default profiles: default
+2020-07-22 16:55:22.153 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-07-22 16:55:22.154 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-07-22 16:55:22.197 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 39ms. Found 0 JDBC repository interfaces.
+2020-07-22 16:55:22.215 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-07-22 16:55:22.217 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-07-22 16:55:22.250 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2020-07-22 16:55:23.035 logback [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=83558851-4aa1-30d5-ac04-ada4a94a7591
+2020-07-22 16:55:23.250 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.DepartmentFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:23.251 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.ManagerRoleRelFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:23.251 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.RoleMenuRelFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:23.252 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemManagerFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:23.254 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemMenuFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:23.255 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.zdxj.feignclient.SystemRoleFeignClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:23.477 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.redis-org.springframework.boot.autoconfigure.data.redis.RedisProperties' of type [org.springframework.boot.autoconfigure.data.redis.RedisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:23.480 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.data.redis.LettuceConnectionConfiguration' of type [org.springframework.boot.autoconfigure.data.redis.LettuceConnectionConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:23.649 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'lettuceClientResources' of type [io.lettuce.core.resource.DefaultClientResources] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:23.754 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConnectionFactory' of type [org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:23.760 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'redisConfig' of type [com.zdxj.config.RedisConfig$$EnhancerBySpringCGLIB$$1df1d451] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-22 16:55:24.155 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8764 (http)
+2020-07-22 16:55:24.170 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8764"]
+2020-07-22 16:55:24.171 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-22 16:55:24.171 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-22 16:55:24.348 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-22 16:55:24.349 logback [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6398 ms
+2020-07-22 16:55:31.424 logback [main] INFO  com.zdxj.config.RedisConfig - 初始化 -> [CacheManager RedisCacheManager Start]
+2020-07-22 16:55:31.440 logback [main] INFO  com.zdxj.config.RedisConfig - 初始化 -> [Redis CacheErrorHandler]
+2020-07-22 16:55:31.467 logback [main] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-07-22 16:55:31.467 logback [main] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-22 16:55:31.474 logback [main] WARN  c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-07-22 16:55:31.474 logback [main] INFO  c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-22 16:55:31.725 logback [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-22 16:55:32.128 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-07-22 16:55:35.249 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-07-22 16:55:36.814 logback [main] WARN  o.s.c.l.c.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-07-22 16:55:37.046 logback [main] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2020-07-22 16:55:37.275 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2020-07-22 16:55:37.620 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2020-07-22 16:55:37.620 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2020-07-22 16:55:37.750 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2020-07-22 16:55:37.751 logback [main] INFO  c.n.d.p.DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2020-07-22 16:55:38.117 logback [main] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 16:55:38.338 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2020-07-22 16:55:38.339 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2020-07-22 16:55:38.339 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2020-07-22 16:55:38.339 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2020-07-22 16:55:38.339 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2020-07-22 16:55:38.339 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2020-07-22 16:55:38.339 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2020-07-22 16:55:38.478 logback [main] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2020-07-22 16:55:38.480 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2020-07-22 16:55:38.483 logback [main] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-07-22 16:55:38.487 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1595408138486 with initial instances count: 3
+2020-07-22 16:55:38.490 logback [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application SYSTEM-CORE with eureka with status UP
+2020-07-22 16:55:38.491 logback [main] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1595408138491, current=UP, previous=STARTING]
+2020-07-22 16:55:38.495 logback [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_SYSTEM-CORE/DESKTOP-MUMFCTC:system-core:8764: registering service...
+2020-07-22 16:55:38.496 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8764"]
+2020-07-22 16:55:38.523 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8764 (http) with context path ''
+2020-07-22 16:55:38.524 logback [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8764
+2020-07-22 16:55:38.534 logback [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_SYSTEM-CORE/DESKTOP-MUMFCTC:system-core:8764 - registration status: 204
+2020-07-22 16:55:38.837 logback [main] INFO  com.zdxj.SystemCoreApplication - Started SystemCoreApplication in 23.588 seconds (JVM running for 25.485)

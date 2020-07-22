@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authorize-server" />
+        <module name="base-common" />
+        <module name="cms-api" />
+        <module name="cms-core" />
+        <module name="config-server" />
+        <module name="eureka-server" />
+        <module name="gateway-server" />
+        <module name="system-api" />
+        <module name="system-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

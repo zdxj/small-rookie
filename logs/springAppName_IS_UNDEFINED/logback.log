@@ -1,0 +1,54 @@
+2020-07-22 11:21:29.772 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 11:22:52.044 logback [http-nio-8764-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-22 11:22:52.045 logback [http-nio-8764-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-07-22 11:22:52.099 logback [http-nio-8764-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 54 ms
+2020-07-22 11:22:52.206 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 11:22:52.211 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-22 11:22:52.306 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - <==      Total: 1
+2020-07-22 11:22:52.416 logback [http-nio-8764-exec-3] DEBUG c.z.m.M.listByCondition - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-22 11:22:52.419 logback [http-nio-8764-exec-3] DEBUG c.z.m.M.listByCondition - ==> Parameters: 2(Integer)
+2020-07-22 11:22:52.480 logback [http-nio-8764-exec-3] DEBUG c.z.m.M.listByCondition - <==      Total: 1
+2020-07-22 11:22:55.687 logback [http-nio-8764-exec-2] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 11:22:55.689 logback [http-nio-8764-exec-2] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin11(String), 0(Integer), 1(Integer)
+2020-07-22 11:22:55.691 logback [http-nio-8764-exec-2] DEBUG c.z.m.S.listByCondition - <==      Total: 0
+2020-07-22 11:24:19.038 logback [http-nio-8764-exec-5] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 11:24:19.039 logback [http-nio-8764-exec-5] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin11(String), 0(Integer), 1(Integer)
+2020-07-22 11:24:19.040 logback [http-nio-8764-exec-5] DEBUG c.z.m.S.listByCondition - <==      Total: 0
+2020-07-22 11:26:29.779 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 11:31:29.780 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:00:38.342 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:01:42.834 logback [http-nio-8764-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-22 17:01:42.836 logback [http-nio-8764-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-07-22 17:01:42.856 logback [http-nio-8764-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 20 ms
+2020-07-22 17:01:43.382 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_manager WHERE login_name = ? order by id desc limit ?, ?
+2020-07-22 17:01:43.557 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - ==> Parameters: admin1(String), 0(Integer), 1(Integer)
+2020-07-22 17:01:43.864 logback [http-nio-8764-exec-1] DEBUG c.z.m.S.listByCondition - <==      Total: 1
+2020-07-22 17:01:44.668 logback [http-nio-8764-exec-9] DEBUG c.z.m.M.listByCondition - ==>  Preparing: select * from manager_role_rel WHERE manager_id = ? order by id desc
+2020-07-22 17:01:44.671 logback [http-nio-8764-exec-9] DEBUG c.z.m.M.listByCondition - ==> Parameters: 2(Integer)
+2020-07-22 17:01:44.879 logback [http-nio-8764-exec-9] DEBUG c.z.m.M.listByCondition - <==      Total: 1
+2020-07-22 17:02:07.416 logback [http-nio-8764-exec-10] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_menu order by id desc
+2020-07-22 17:02:07.444 logback [http-nio-8764-exec-10] DEBUG c.z.m.S.listByCondition - ==> Parameters: 
+2020-07-22 17:02:07.857 logback [http-nio-8764-exec-10] DEBUG c.z.m.S.listByCondition - <==      Total: 60
+2020-07-22 17:02:14.950 logback [http-nio-8764-exec-7] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_menu order by id desc
+2020-07-22 17:02:14.951 logback [http-nio-8764-exec-7] DEBUG c.z.m.S.listByCondition - ==> Parameters: 
+2020-07-22 17:02:14.960 logback [http-nio-8764-exec-7] DEBUG c.z.m.S.listByCondition - <==      Total: 60
+2020-07-22 17:02:28.672 logback [http-nio-8764-exec-4] DEBUG c.z.m.S.listByCondition - ==>  Preparing: select * from system_menu order by id desc
+2020-07-22 17:02:28.673 logback [http-nio-8764-exec-4] DEBUG c.z.m.S.listByCondition - ==> Parameters: 
+2020-07-22 17:02:28.679 logback [http-nio-8764-exec-4] DEBUG c.z.m.S.listByCondition - <==      Total: 60
+2020-07-22 17:05:38.354 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:10:38.365 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:15:38.375 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:20:38.391 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:25:38.392 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:30:38.393 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:35:38.405 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:40:38.416 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:45:38.435 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:50:38.436 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 17:55:38.437 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 18:00:38.451 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 18:05:38.452 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 18:10:38.453 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 18:15:38.455 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 18:20:38.468 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2020-07-22 18:25:38.476 logback [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
