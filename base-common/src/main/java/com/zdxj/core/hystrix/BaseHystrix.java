@@ -18,38 +18,33 @@ public class BaseHystrix<T extends BaseEntity> implements BaseFeignClient<T> {
     }
 
     @Override
-    public Result<Object> saveEntity(@RequestBody T entity) {
+    public Result<Object> save(@RequestBody T entity) {
     	return Result.failed();
     }
 
     @Override
-    public Result<Object> updateEntity(@RequestBody T entity) {
+    public Result<Object> update(@RequestBody T entity) {
     	return Result.failed();
     }
 
 
     @Override
-    public Result<Object> deleteById(@RequestParam("id") Integer id) {
+    public Result<Object> removeById(@RequestParam("id") Integer id) {
     	return Result.failed();
     }
 
     @Override
-    public Result<Object> deleteByIds(@RequestBody List<Integer> ids) {
+    public Result<Object> removeByIds(@RequestBody List<Integer> ids) {
     	return Result.failed();
     }
 
     @Override
-    public Result<List<T>> listAll() {
+    public Result<List<T>> list(@RequestBody(required =false) Map<String, Object> maps) {
     	return Result.failed();
     }
 
     @Override
-    public Result<List<T>> listByCondition(@RequestBody Map<String, Object> maps) {
-    	return Result.failed();
-    }
-
-    @Override
-    public Result<List<T>> listByConditionWithPage(Map<String, Object> maps, @RequestParam("startIndex") int startIndex, @RequestParam("pageSize") int pageSize) {
+    public Result<List<T>> listByConditionWithPage(@RequestBody(required =false) Map<String, Object> maps, @RequestParam("startIndex") int startIndex, @RequestParam("pageSize") int pageSize) {
     	return Result.failed();
     }
 
@@ -59,17 +54,12 @@ public class BaseHystrix<T extends BaseEntity> implements BaseFeignClient<T> {
     }
 
     @Override
-    public Result<Object> countAll() {
-        return Result.failed("操作失败",0);
-    }
-
-    @Override
-    public Result<Object> countByCondition(@RequestBody Map<String, Object> maps) {
+    public Result<Object> count(@RequestBody Map<String, Object> maps) {
     	return Result.failed("操作失败",0);
     }
 
     @Override
-    public Result<List<Integer>> listIds(@RequestBody Map<String, Object> maps) {
+    public Result<List<Integer>> listIds(@RequestBody(required =false) Map<String, Object> maps) {
     	return Result.failed();
     }
 

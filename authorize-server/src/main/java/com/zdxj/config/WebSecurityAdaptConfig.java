@@ -34,8 +34,6 @@ public class WebSecurityAdaptConfig extends WebSecurityConfigurerAdapter {
      */
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
-        //目的是为了前端获取数据时获取到整个form-data的数据,提供验证器
-//        auth.authenticationProvider(webResponseExceptionTranslator);
         auth.userDetailsService(userDetailsService).passwordEncoder(passwordEncoder());
     }
 

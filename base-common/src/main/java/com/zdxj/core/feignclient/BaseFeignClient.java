@@ -20,36 +20,30 @@ public interface BaseFeignClient<T extends BaseEntity> {
     @GetMapping("getById")
     Result<T> getById(@RequestParam("id") Integer id);
 
-    @PostMapping("saveEntity")
-    Result<Object> saveEntity(@RequestBody T entity);
+    @PostMapping("save")
+    Result<Object> save(@RequestBody T entity);
 
-    @PostMapping("updateEntity")
-    Result<Object> updateEntity(@RequestBody T entity);
+    @PostMapping("update")
+    Result<Object> update(@RequestBody T entity);
 
-    @GetMapping("deleteById")
-    Result<Object> deleteById(@RequestParam("id") Integer id);
+    @GetMapping("removeById")
+    Result<Object> removeById(@RequestParam("id") Integer id);
 
-    @PostMapping("deleteByIds")
-    Result<Object> deleteByIds(@RequestBody List<Integer> ids);
+    @PostMapping("removeByIds")
+    Result<Object> removeByIds(@RequestBody List<Integer> ids);
 
-    @PostMapping("listAll")
-    Result<List<T>> listAll();
-
-    @PostMapping("listByCondition")
-    Result<List<T>> listByCondition(@RequestBody Map<String, Object> maps);
+    @PostMapping("list")
+    Result<List<T>> list(@RequestBody(required =false) Map<String, Object> maps);
 
     @PostMapping("listByConditionWithPage")
-    Result<List<T>> listByConditionWithPage(@RequestBody Map<String, Object> maps, @RequestParam("startIndex") int startIndex, @RequestParam("pageSize") int pageSize);
+    Result<List<T>> listByConditionWithPage(@RequestBody(required =false) Map<String, Object> maps, @RequestParam("startIndex") int startIndex, @RequestParam("pageSize") int pageSize);
 
     @PostMapping("listByPage")
     Result<Page<List<T>>> listByPage(@RequestBody Map<String, Object> maps, @RequestParam("startIndex") int startIndex, @RequestParam("pageSize") int pageSize);
 
-    @PostMapping("countAll")
-    Result<Object> countAll();
-    
-    @PostMapping("countByCondition")
-    Result<Object> countByCondition(@RequestBody Map<String, Object> maps);
+    @PostMapping("count")
+    Result<Object> count(@RequestBody(required =false) Map<String, Object> maps);
 
     @PostMapping("listIds")
-    Result<List<Integer>> listIds(@RequestBody Map<String, Object> maps);
+    Result<List<Integer>> listIds(@RequestBody(required =false) Map<String, Object> maps);
 }

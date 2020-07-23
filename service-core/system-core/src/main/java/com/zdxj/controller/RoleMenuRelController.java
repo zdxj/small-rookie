@@ -1,8 +1,5 @@
 package com.zdxj.controller;
 
-import java.util.List;
-import java.util.Map;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -22,13 +19,13 @@ public class RoleMenuRelController extends BaseController<RoleMenuRelService,Rol
 	private RoleMenuRelService myService ;
 	
 	/**
-	 * 获取角色和权限的对应关系
+	 * 初始化角色和权限的对应关系
 	 * @author zhaodx
 	 * @date 2020-07-20 18:13
 	 * @return
 	 */
-	@GetMapping("listRoleMenu")
-    Result<Map<String, List<String>>> listRoleMenu(){
-		return Result.success(myService.listRoleMenu());
+	@GetMapping("initRoleMenuRel")
+    Result<Object> initRoleMenuRel(){
+		return myService.initRoleMenuRel(true);
 	}
 }

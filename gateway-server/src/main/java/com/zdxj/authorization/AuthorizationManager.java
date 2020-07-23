@@ -1,6 +1,7 @@
 package com.zdxj.authorization;
 
 import java.net.URI;
+import java.util.Arrays;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,6 +26,9 @@ import reactor.core.publisher.Mono;
 @Component
 public class AuthorizationManager implements ReactiveAuthorizationManager<AuthorizationContext> {
     
+	//不需要验证权限的访问路径前缀
+	private final List<String> notToAuthPathFix = Arrays.asList("systemV1","cmsV1");
+	
 	@Autowired
     private RedisUtils redisUtils;
 
@@ -32,6 +36,9 @@ public class AuthorizationManager implements ReactiveAuthorizationManager<Author
     public Mono<AuthorizationDecision> check(Mono<Authentication> mono, AuthorizationContext authorizationContext) {
         //从Redis中获取当前路径可访问角色列表
         URI uri = authorizationContext.getExchange().getRequest().getURI();
+        if(!this.needToAuthentication(uri.getPath())) {
+        	return Mono.just(new AuthorizationDecision(true));
+        }
         Object obj = redisUtils.get(GlobalConstants.RESOURCE_ROLES_MAP, uri.getPath());
         List<String> authorities = Convert.toList(String.class,obj);
         //认证通过且角色匹配的用户可访问当前路径
@@ -44,4 +51,21 @@ public class AuthorizationManager implements ReactiveAuthorizationManager<Author
                 .defaultIfEmpty(new AuthorizationDecision(false));
     }
 
+    /**
+     * 是否需要验证权限
+     * @author zhaodx
+     * @date 2020-07-23 18:12
+     * @param path
+     * @return
+     */
+    private boolean needToAuthentication(String path) {
+    	String[] split = path.split("\\/");
+    	if(split == null || split.length<3) {
+    		return true ;
+    	}
+    	if(!notToAuthPathFix.contains(split[1])) {
+    		return true ;
+    	}
+    	return false ;
+    }
 }

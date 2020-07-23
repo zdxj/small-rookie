@@ -68,6 +68,7 @@ public class ResourceServerConfig {
     		//认证服务器获取用户信息
             "/systemApi/systemManager/getByLoginName",
             "/systemApi/managerRoleRel/listRoleIdByManagerId",
+            "/systemApi/roleMenuRel/initRoleMenuRel",
             "/authApi/oauth/token",
             "/health",
             "/systemApi/test/**"

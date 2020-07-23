@@ -15,6 +15,7 @@ import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
 import com.zdxj.constant.GlobalConstants;
 import com.zdxj.constant.SystemCacheConstant;
+import com.zdxj.core.Result;
 import com.zdxj.core.service.impl.BaseServiceImpl;
 import com.zdxj.mapper.RoleMenuRelMapper;
 import com.zdxj.model.RoleMenuRelEntity;
@@ -46,20 +47,21 @@ public class RoleMenuRelServiceImpl extends BaseServiceImpl<RoleMenuRelMapper,Ro
 		if(redisUtils.opsForHashSize(GlobalConstants.RESOURCE_ROLES_MAP)>0) {
 			return ;
 		}
-		Map<String, List<String>> listRoleMenu = this.listRoleMenu();
-    	if(listRoleMenu != null) {
-    		redisUtils.hmset(GlobalConstants.RESOURCE_ROLES_MAP, listRoleMenu);
-    	}
+		this.initRoleMenuRel(false);
     }
 	
 	/**
-	 * 获取角色和权限的对应关系
+	 * 初始化角色和权限的对应关系
 	 * @author zhaodx
 	 * @date 2020-07-20 18:13
 	 * @return
 	 */
 	@Override
-	public Map<String, List<String>> listRoleMenu() {
+	public Result<Object> initRoleMenuRel(boolean isReload) {
+		
+		if(!isReload && redisUtils.opsForHashSize(GlobalConstants.RESOURCE_ROLES_MAP)>0) {
+			return Result.success();
+		}
 		//获取所有菜单信息
 		Map<String,Object> maps = Maps.newHashMap();
 		maps.put("deleted", false);
@@ -84,7 +86,10 @@ public class RoleMenuRelServiceImpl extends BaseServiceImpl<RoleMenuRelMapper,Ro
 		for(RoleMenuRelEntity info:listAll) {
 			this.handlerRoleUrlMap(result, menuMap, info);
 		}
-		return result;
+		if(result != null) {
+    		redisUtils.hmset(GlobalConstants.RESOURCE_ROLES_MAP, result);
+    	}
+		return Result.success();
 	}
 	
 	/**

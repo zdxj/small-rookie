@@ -51,7 +51,7 @@ spring:
         ## 必须使用http进行转发，lb代表从注册中心获取服务
         uri: lb://system-core
         predicates:
-        - Path=/systemApi/**
+        - Path=/systemApi/**,/systemV1/**
         # http://localhost:port/systemApi/listAll, 必须加上StripPrefix=1，否则访问服务时会带上systemApi
         filters:
         - StripPrefix=1
@@ -64,7 +64,7 @@ spring:
         ## 必须使用http进行转发，lb代表从注册中心获取服务
         uri: lb://cms-core
         predicates:
-        - Path=/cmsApi/**
+        - Path=/cmsApi/**,/cmsV1/**
         filters:
         - StripPrefix=1
         - name: Hystrix

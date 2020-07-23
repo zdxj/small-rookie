@@ -85,10 +85,24 @@ public class BaseController<M extends BaseService<T>,T extends BaseEntity> {
      * @return
      */
     @PostMapping("list")
-    public Result<List<T>> list(@RequestBody(required =false) Map<String, Object> maps){
-        return Result.success(myService.listByCondition(maps));
+    public Result<List<T>> list(@RequestBody(required =false) Map<String, Object> maps,@RequestParam(name ="startIndex",required = false) Integer startIndex, @RequestParam(name = "pageSize",required = false) Integer pageSize){
+        if(startIndex != null && pageSize != null) {
+        	maps.put("startIndex", startIndex);
+        	maps.put("pageSize", pageSize);
+        }
+    	return Result.success(myService.listByCondition(maps));
     }
 
+    /**
+     * 根据条件获取集合
+     * @param maps
+     * @return
+     */
+    @PostMapping("listByConditionWithPage")
+    public Result<List<T>> listByConditionWithPage(@RequestBody Map<String, Object> maps, @RequestParam("firstResultIndex") int firstResultIndex, @RequestParam("pageSize") int pageSize){
+        return Result.success(myService.listByConditionWithPage(maps,firstResultIndex,pageSize));
+    }
+    
     /**
      * 分页获取对象集合
      * @param maps
@@ -97,14 +111,14 @@ public class BaseController<M extends BaseService<T>,T extends BaseEntity> {
      * @return
      */
     @PostMapping("listByPage")
-    public Result<Page<List<T>>> listByPage(@RequestBody Map<String, Object> maps){
-        if(!maps.containsKey("startIndex")) {
+    public Result<Page<List<T>>> listByPage(@RequestBody Map<String, Object> maps,@RequestParam(name ="startIndex",required = false) Integer startIndex, @RequestParam(name = "pageSize",required = false) Integer pageSize){
+        if(!maps.containsKey("startIndex") || startIndex == null) {
         	return Result.failed("startIndex不能为空");
         }
-        if(!maps.containsKey("pageSize")) {
+        if(!maps.containsKey("pageSize") || pageSize == null) {
         	return Result.failed("pageSize不能为空");
         }
-    	return Result.success(myService.listByPage(maps, (Integer)maps.get("startIndex"), (Integer)maps.get("pageSize")));
+    	return Result.success(myService.listByPage(maps, startIndex==null?(Integer)maps.get("startIndex"):startIndex, pageSize==null?(Integer)maps.get("pageSize"):pageSize));
     }
     
     /**
