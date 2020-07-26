@@ -71,6 +71,7 @@ public class ResourceServerConfig {
             "/systemApi/roleMenuRel/initRoleMenuRel",
             "/authApi/oauth/token",
             "/health",
-            "/systemApi/test/**"
+            "/systemV1/**",
+            "/cmsV1/**"
     };
 }

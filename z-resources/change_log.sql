@@ -97,6 +97,8 @@ CREATE TABLE image_category (
 	create_time datetime DEFAULT NULL COMMENT '创建时间',
 	update_time datetime DEFAULT NULL COMMENT '修改时间',
 	name varchar(16) DEFAULT '' COMMENT '分类名称',
+	note varchar(128) DEFAULT '' COMMENT '简介',
+	path varchar(128) DEFAULT '' COMMENT '图片路径',
 	position int DEFAULT 0 COMMENT '位置排序'
 ) ENGINE = InnoDB CHARSET = utf8 COMMENT '图片分类表';
 
@@ -107,8 +109,12 @@ CREATE TABLE image (
 	create_time datetime DEFAULT NULL COMMENT '创建时间',
 	update_time datetime DEFAULT NULL COMMENT '修改时间',
 	name varchar(32) DEFAULT '' COMMENT '名称',
+	note varchar(128) DEFAULT '' COMMENT '简介',
 	path varchar(128) DEFAULT '' COMMENT '图片路径',
+	video varchar(128) DEFAULT '' COMMENT '视频路径',
 	category_id int unsigned DEFAULT 0 COMMENT '分类ID',
+	author varchar(16) DEFAULT '' COMMENT '作者',
+	head_image varchar(128) DEFAULT '' COMMENT '头像路径',
 	support_count int unsigned DEFAULT 0 COMMENT '点赞数量',
 	position int DEFAULT 0 COMMENT '位置排序'
 ) ENGINE = InnoDB CHARSET = utf8 COMMENT '图片表';

@@ -7,6 +7,8 @@
 		   <result column="create_time" jdbcType="TIMESTAMP" property="createTime" />
 		   <result column="update_time" jdbcType="TIMESTAMP" property="updateTime" />
 		   <result column="name" jdbcType="VARCHAR" property="name" />
+		   <result column="note" jdbcType="VARCHAR" property="note" />
+		   <result column="path" jdbcType="VARCHAR" property="path" />
 		   <result column="position" jdbcType="INTEGER" property="position" />
 	  </resultMap>
 	
@@ -18,6 +20,8 @@
 	      <if test="createTime != null">create_time,</if>
 	      <if test="updateTime != null">update_time,</if>
 	      <if test="name != null">name,</if>
+	      <if test="note != null">note,</if>
+	      <if test="path != null">path,</if>
 	      <if test="position != null">position,</if>
 	    </trim>
 	    <trim prefix="values (" suffix=")" suffixOverrides=",">
@@ -26,6 +30,8 @@
 	      <if test="createTime != null">#{createTime},</if>
 	      <if test="updateTime != null">#{updateTime},</if>
 	      <if test="name != null">#{name},</if>
+	      <if test="note != null">#{note},</if>
+	      <if test="path != null">#{path},</if>
 	      <if test="position != null">#{position},</if>
 	    </trim>
 	  </insert>
@@ -37,6 +43,8 @@
 	      <if test="createTime != null">create_time = #{createTime},</if>
 	      <if test="updateTime != null">update_time = #{updateTime},</if>
 	      <if test="name != null">name = #{name},</if>
+	      <if test="note != null">note = #{note},</if>
+	      <if test="path != null">path = #{path},</if>
 	      <if test="position != null">position = #{position},</if>
 	    </set>
 	    where id = #{id}
@@ -99,6 +107,8 @@
 	        <if test="createTime  !=  null">and create_time = #{createTime}</if>
 	        <if test="updateTime  !=  null">and update_time = #{updateTime}</if>
 	        <if test="name  !=  null">and name = #{name}</if>
+	        <if test="note  !=  null">and note = #{note}</if>
+	        <if test="path  !=  null">and path = #{path}</if>
 	        <if test="position  !=  null">and position = #{position}</if>
 	        <if test="nameLike != null">and name like CONCAT('%',#{nameLike},'%') ESCAPE '/'</if>
 	    </sql>
